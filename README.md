@@ -19,3 +19,6 @@ _são 15 exercícios de programação das estruturas básicas de condição e re
 * exercício 14: algortimo de fatorial
 * exercício 15: algoritmo de fibonacci
 
+## 💻 Requisitos
+- [x] Ter uma IDE e Node.js no seu computador para rodar os códigos
+- [x] Instalar o prompt-sync através do cmd: `npm install prompt-sync` 
